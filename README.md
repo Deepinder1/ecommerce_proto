@@ -1,7 +1,6 @@
 # ecommerce_proto
 
-A new Flutter project.
-
+Making an ecommerce app with provider and getx
 ## Getting Started
 
 This project is a starting point for a Flutter application.
